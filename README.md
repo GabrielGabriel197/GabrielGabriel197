@@ -1,1 +1,3 @@
+eu gosto de batata
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielGabriel197&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
